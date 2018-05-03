@@ -1,0 +1,159 @@
+body {
+	width: 100%;
+	min-width: 1080px;
+	background: white;
+}
+
+#tgfe {
+	background: #fafafa;
+	height: 122px;
+	width: 100%;
+}
+
+#sfbgg {
+	width: 100%;
+	height: 64px;
+	padding-top: 14px;
+}
+
+#hdtbSum {
+	width: 100%;
+	height: 58px;
+}
+
+#logocont {
+	width: 143px;
+	height: 50px;
+	float: left;
+	text-align: center;
+}
+
+#logocont img {
+	width: 44px;
+}
+
+#sfibbbc {
+	width: 632px;
+	height: 49px;
+	border: 1px solid whitesmoke;
+	background: white;
+	box-shadow: 1px 1px 1px #888888;
+	float: left;
+}
+
+#lst-ib {
+	width: 510px;
+	height: 34px;
+	margin-top: 5px;
+	margin-left: 5px;
+	border: none;
+	outline: none;
+	text-indent: 20px;
+	font-size: 18px;
+}
+
+#sfibbbc:hover {
+	box-shadow: 2px 2px 5px #888888;
+}
+
+.hdtb {
+	width: 58px;
+	height: 58px;
+	float: left;
+	line-height: 58px;
+	text-align: center;
+	color: #777777;
+}
+
+.hdtb:first-child {
+	margin-left: 158px;
+}
+
+.hdtb-msel {
+	color: #2376E5;
+	border-bottom: 2px solid #2376e5;
+	cursor: hand;
+	cursor: pointer;
+}
+
+.hdtb:not(.hdtb-msel):hover {
+	color: black;
+	cursor: hand;
+	cursor: pointer;
+}
+
+#topbar {
+	width: 100%;
+	height: 43px;
+}
+
+#slim_appbar {
+	height: 43px;
+	margin-left: 158px;
+	line-height: 43px;
+	color: #777777;
+	text-indent: 15px;
+}
+
+#srg {
+	width: 632px;
+	height: 1000px;
+	margin-left: 158px;
+	padding: 15px;
+}
+
+#mklEF {
+	width: 49px;
+	height: 49px;
+	float: right;
+	padding: 10px;
+}
+
+#mklEF img {
+	width: 18px;
+}
+
+#mklEF img:hover {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.atqer {
+	width: 100%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.atqer a {
+	height: 20px;
+	font-size: 20px;
+	color: #1c1ca8;
+}
+
+.atqer a:hover {
+	text-decoration: none;
+}
+
+.atqer p {
+	color: #545454;
+}
+
+.atqer p span {
+	color: #808080;
+}
+
+#gb_nb {
+	width: 172px;
+	height: 30px;
+	float: right;
+	margin-top: 14px;
+}
+
+#gb_70 {
+	width: 52px;
+	height: 30px;
+	background: #4688f1;
+	color: white;
+	outline: none;
+	border-radius: 5px;
+}
